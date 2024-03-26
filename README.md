@@ -10,3 +10,4 @@ JSON guide: https://quickref.me/json.html
 Plotly JavaScript Open Source Graphing Library: https://plotly.com/javascript/
 https://plotly.com/javascript/bubble-charts/
 
+![Image](https://github.com/Hward9Lo/belly-button-challenge/blob/main/Screenshot%202024-03-26%20123056.png?raw=true)
