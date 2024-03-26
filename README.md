@@ -5,3 +5,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 JavaScript: Var, Let, or Const? Which One Should you Use?: https://codeburst.io/javascript-var-let-or-const-which-one-should-you-use-2fd521b050fa
+JSON guide: https://quickref.me/json.html
+
+Plotly JavaScript Open Source Graphing Library: https://plotly.com/javascript/
+https://plotly.com/javascript/bubble-charts/
+
